@@ -1,0 +1,7 @@
+# Keep development-only files out of the published package.
+node_modules/
+npm-debug.log*
+.DS_Store
+.env
+.gitignore
+.git/
